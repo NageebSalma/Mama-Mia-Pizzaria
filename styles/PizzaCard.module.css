@@ -1,0 +1,27 @@
+.container{
+    margin-top: 50px;
+    width: 25%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    cursor: pointer;
+}
+
+.title{
+    color: #d1411e;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.price{
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+}
+
+.describtion{
+   color: #777; 
+}
