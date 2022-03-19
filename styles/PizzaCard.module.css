@@ -25,3 +25,19 @@
 .describtion{
    color: #777; 
 }
+
+
+@media screen and (max-width:800px){
+ 
+    .container{
+        width: 100%;
+    }
+    .title{
+        font-size: 2rem;
+    }
+
+    .price , .describtion{
+        font-size: 1.5rem;
+    }
+
+ }
